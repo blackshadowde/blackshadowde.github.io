@@ -1,1 +1,15 @@
 
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.blackshadowde.twa",
+      "sha256_cert_fingerprints": [
+        "63:93:1D:5D:3B:01:5A:63:D9:1A:64:2D:48:8A:52:9D:29:E2:39:89:2F:3A:BB:D9:FF:E1:9B:D6:5C:BA:3D:61"
+      ]
+    }
+  }
+]
